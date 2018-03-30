@@ -2,7 +2,7 @@
 
 
 # Documents de conception
-Le but du travail est de créer une application de toure pièce. Notre équipe a choisi de développer un jeu de style "Tower Defence"
+Le but du travail est de créer une application de toute pièce. Notre équipe a choisi de développer un jeu de style "Tower Defence"
 dans le langage Lua.
 ## Travail à faire 
     * Rédiger les trois documents suivant : Opscon, Conops et SRS
